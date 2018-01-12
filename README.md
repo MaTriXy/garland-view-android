@@ -22,22 +22,22 @@ The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=speci
 
 ## Installation
 ​
-Just download the package from [here](http://central.maven.org/maven2/com/ramotion/garlandview/garland-view/0.1.0/garland-view-0.1.0.aar) and add it to your project classpath, or just use the maven repo:
+Just download the package from [here](http://central.maven.org/maven2/com/ramotion/garlandview/garland-view/0.3.2/garland-view-0.3.2.aar) and add it to your project classpath, or just use the maven repo:
 
 Gradle:
 ```groovy
-compile 'com.ramotion.garlandview:garland-view:0.1.0'
+compile 'com.ramotion.garlandview:garland-view:0.3.2'
 ```
 SBT:
 ```scala
-libraryDependencies += "com.ramotion.garlandview" % "garland-view" % "0.1.0"
+libraryDependencies += "com.ramotion.garlandview" % "garland-view" % "0.3.2"
 ```
 Maven:
 ```xml
 <dependency>
     <groupId>com.ramotion.garlandview</groupId>
     <artifactId>garland-view</artifactId>
-    <version>0.1.0</version>
+    <version>0.3.2</version>
 </dependency>
 ```
 
@@ -71,19 +71,19 @@ Finally, place `TailRecyclerView` in the Activity's layout. Next, create a TailL
 specify it as a LayoutManager for `TailRecyclerView`.
 
 Here are the attributes of `TailRecyclerView` you can specify in the XML layout:
-*`itemStart` - Outer item left and right offset size.
-*`itemGap` -  Distance between outer items.
+* `itemStart` - Outer item left and right offset size.
+* `itemGap` -  Distance between outer items.
 
 ## License
 ​
 CardSlider for Android is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
 
-# Get the Showroom App for iOS to give it a try
-Try our UI components in our iOS app. Contact us if interested.
+# Get the Showroom App for Android to give it a try
+Try our UI components in our mobile app. Contact us if interested.
 
-<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=garland-view-android&mt=8" > 
-<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
+<img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="104" height="34"></a>
 <a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=garland-view-android-contact-us/#Get_in_Touch"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
