@@ -1,15 +1,20 @@
 ![header](./header.png)
-![animation](./preview.gif)
+<img src="https://github.com/Ramotion/garland-view-android/blob/master/preview.gif" width="600" height="450" />
+<br><br/>
 
 # Garland View for Android
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Ramotion)
 
+# Check this library on other platforms:
+<a href="https://github.com/Ramotion/garland-view">
+<img src="https://github.com/ramotion/navigation-stack/raw/master/Swift@2x.png" width="178" height="81"></a>
 
 **Looking for developers for your project?**<br>
 This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
 
-<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=garland-view-android-contact-us/#Get_in_Touch"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
 
 
@@ -74,6 +79,10 @@ Here are the attributes of `TailRecyclerView` you can specify in the XML layout:
 * `itemStart` - Outer item left and right offset size.
 * `itemGap` -  Distance between outer items.
 
+<br>
+
+This library is a part of a <a href="https://github.com/Ramotion/android-ui-animation-components-and-libraries"><b>selection of our best UI open-source projects.</b></a>
+
 ## License
 ​
 CardSlider for Android is released under the MIT license.
@@ -84,12 +93,11 @@ Try our UI components in our mobile app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="104" height="34"></a>
-<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=garland-view-android-contact-us/#Get_in_Touch"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
 
-Follow us for the latest updates 
-<br>
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/garland-vew-android)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+Follow us for the latest updates<br>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
